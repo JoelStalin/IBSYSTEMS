@@ -1,0 +1,2 @@
+C:\Ibsystems\obj\Debug\ibsystems.njsprojResolveAssemblyReference.cache
+C:\Ibsystems\bin\Microsoft.NodejsTools.WebRole.dll
